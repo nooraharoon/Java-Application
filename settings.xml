@@ -5,25 +5,25 @@
 
   <servers>
     <server>
-      <id>mymaven-snapshots</id>
+      <id>newmaven-snapshots</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>nexuspassword</password>
     </server>
     <server>
-      <id>mymaven-releases</id>
+      <id>newmaven-releases</id>
       <username>admin</username>
-      <password>Passw0rd</password>
+      <password>nexuspassword</password>
     </server>
   </servers>
 
-  <mirrors>
+  <!--mirrors>
     <mirror>
       <id>central</id>
       <name>central</name>
-      <url>http://107.22.129.42:8081/repository/mymaven-central/</url>
+      <url>http://172.31.27.76:8081/repository/newmaven-central/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
-  </mirrors>
+  </mirrors-->
 
 
 </settings>
