@@ -20,7 +20,7 @@
     <mirror>
       <id>newmaven-central</id>
       <name>newmaven-central</name>
-      <url>http://172.31.27.76:8081/repository/newmaven-central/</url>
+      <url>http://65.2.48.225:8081/repository/newmaven-group/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
