@@ -16,14 +16,14 @@
     </server>
   </servers>
 
-  <!--mirrors>
+  <mirrors>
     <mirror>
-      <id>central</id>
-      <name>central</name>
+      <id>newmaven-central</id>
+      <name>newmaven-central</name>
       <url>http://172.31.27.76:8081/repository/newmaven-central/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
-  </mirrors-->
+  </mirrors>
 
 
 </settings>
